@@ -1,0 +1,13 @@
+groq
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-ollama
+chromadb
+PyPDF2
+python-dotenv
+requests
+duckduckgo-search==5.3.1
+beautifulsoup4==4.12.3
+html2text==2024.2.26
